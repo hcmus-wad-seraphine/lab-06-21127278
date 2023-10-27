@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding-top: 6rem;
+}
+
+body div.container {
+    max-width: 786px;
+}
+
+h1 {
+    color: #722ef9;
+}
+
+p#noti {
+    color: red;
+}
